@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(173, 194, 194);
+}
+table {
+    border-spacing: 0;
+    background-color: white;
+    margin: 0 auto;
+}
+th{
+    background-color:green;
+    color: #ffffff;
+    /*border-radius: 10px; -> arredondamento de borda*/ 
+    font-size: 18px;
+}
+td{
+    padding: 5px; /*preenchimento*/
+}
+.foto_table{
+    width: 150px; /*largura*/ 
+}
+.mb-60{
+    margin-bottom: 60px;
+}
